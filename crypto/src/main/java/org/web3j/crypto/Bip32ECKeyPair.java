@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.nio.ByteBuffer;
 import java.util.Arrays;
 
-import org.bouncycastle.math.ec.ECPoint;
+import org.spongycastle.math.ec.ECPoint;
 
 import org.web3j.utils.Numeric;
 

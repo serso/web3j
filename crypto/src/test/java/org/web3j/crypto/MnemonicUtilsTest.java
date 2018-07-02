@@ -8,10 +8,10 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.bouncycastle.util.encoders.Hex;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import org.spongycastle.util.encoders.Hex;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
